@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ctvle
+- 👋 Hi, I’m @cristalyn
 - 👀 I’m interested in travelling
 - 🌱 I’m currently learning DevOps tools
 - 💞️ I’m looking to collaborate on different teams
